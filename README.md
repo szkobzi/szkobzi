@@ -1,7 +1,7 @@
 - 👋 Üdv, a nevem Scopsy
 - 👀 Érdekel a programozás, azon belül is a webfejlesztés
 - 🌱 Jelenleg HTML-t, JavaScriptet és Pythont tanulok
-- 💞️ Az Emperium nevű projekten dolgozom. (https://emperium.hu/)
+- 💞️ A jelenlegi projekt: Realms of Adventure
 - 📫 Elérhetsz Discordon, Instagramon, FaceBookon. Elérhetőségek: https://scopsy.hu/ab
 
 <!---
