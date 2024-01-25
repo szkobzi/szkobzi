@@ -1,7 +1,7 @@
 - 👋 Üdv, a nevem Scopsy
 - 👀 Érdekel a programozás, azon belül is a webfejlesztés
 - 🌱 Jelenleg HTML-t, JavaScriptet és Pythont tanulok
-- 💞️ A jelenlegi projekt: Realms of Adventure
+- 💞️ A jelenlegi projekt: Realms of Adventure, és a Szervizone
 - 📫 Elérhetsz Discordon, Instagramon, FaceBookon. Elérhetőségek: https://scopsy.hu/ab
 
 <!---
