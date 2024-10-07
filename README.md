@@ -1,7 +1,8 @@
-- 👋 Üdv, a nevem Scopsy
-- 👀 Érdekel a programozás, azon belül is a webfejlesztés
-- 🌱 Jelenleg HTML-t, JavaScriptet és Pythont tanulok
-- 💞️ A jelenlegi projekt: Realms of Adventure, és a Szervizone
+- 👋 Üdvözöllek a profilomon! Én Molnár "Scopsy" Maxim vagyok!
+- 👀 Érdekel a programozás, azon belül is a webfejlesztés és az alkalmazásfejlesztés
+- 🌱 Programnyelvek: Javascript, Python
+- 💞️ A jelenlegi projekt: Radon, Szervizone, Tycoon's
+- 🌎 https://radonbot.hu/
 - 📫 Elérhetsz Discordon, Instagramon, FaceBookon. Elérhetőségek: https://scopsy.hu/ab
 
 <!---
