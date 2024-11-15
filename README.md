@@ -1,8 +1,9 @@
 - 👋 Üdvözöllek a profilomon! Én Molnár "Scopsy" Maxim vagyok!
 - 👀 Érdekel a programozás, azon belül is a webfejlesztés és az alkalmazásfejlesztés
-- 🌱 Programnyelvek: Javascript, Python
-- 💞️ A jelenlegi projekt: Radon, Szervizone, Tycoon's
-- 🌎 https://radonbot.hu/
+- 🌱 Programnyelvek: Javascript, Python, Java
+- 🏢 Jelenlegi projekt: https://eredmenymester.eu/
+- 💞️ További projektjeim: Radon, Szervizone, Tycoon's
+- 🌎 https://eredmenymester.eu/
 - 📫 Elérhetsz Discordon, Instagramon, FaceBookon. Elérhetőségek: https://scopsy.hu/ab
 
 <!---
