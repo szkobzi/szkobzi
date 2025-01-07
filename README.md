@@ -1,4 +1,4 @@
-- 👋 Üdvözöllek a profilomon! Én Molnár "Scopsy" Maxim vagyok!
+- 👋 Molnár Maxim
 - 👀 Érdekel a programozás, azon belül is a webfejlesztés és az alkalmazásfejlesztés
 - 🌱 Programnyelvek: Javascript, Python, Java
 - 🏢 Jelenlegi projekt: https://eredmenymester.eu/
